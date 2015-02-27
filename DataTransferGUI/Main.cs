@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Thanks : http://www.codeproject.com/Articles/317996/SMO-Tutorial-4-of-n-Transferring-Data-and-Tracing
+ * License
+ * This article, along with any associated source code and files, is licensed under The Code Project Open License (CPOL)
+ * Author
+ * Kanasz Robert
+ */
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

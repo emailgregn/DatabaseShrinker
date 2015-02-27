@@ -1,0 +1,5 @@
+*.ReSharp
+*.suo
+*/bin/
+*/obj/
+_ReSharper.*
